@@ -1,6 +1,6 @@
 # opengl-engine
 
-Game engine code and simple flight 3D simulator (without resources, dependencies and libs)
+Game engine and simple flight 3D simulator code (without resources, dependencies and libs)
 
 ## Tech
 List of open source projects to work properly:
