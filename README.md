@@ -5,12 +5,12 @@ Game engine and simple flight 3D simulator code (without resources, dependencies
 ## Tech
 List of open source projects to work properly:
 
-* [Assimp] - for model loading
-* [Freetype] - for fonts and text
+* [Assimp] - model loading
+* [Freetype] - fonts and text
 * [GLFW] - API for context
 * [GLAD] - OpenGL loading library
-* [GLM] - for math
-* [STB] - stb_image for loading from memory
+* [GLM] - math
+* [STB] - stb_image - loading from memory
 
 
 ## License
