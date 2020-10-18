@@ -1,6 +1,6 @@
 # opengl-engine
 
-Game engine and simple flight 3D simulator code (without resources, dependencies and libs)
+Game engine and simple flight 3D simulator code (without resources, models, dependencies and libs)
 
 ![Alt text](helikopter.png?raw=true "Title")
 
