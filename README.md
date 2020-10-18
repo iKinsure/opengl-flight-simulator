@@ -17,7 +17,9 @@ List of open source projects to work properly:
 
 ## License
 Licensed under the terms of the [CC BY-NC 4.0]
+
 The engine is based on [learnopengl] tutorial by @[JoeyDeVries]
+
 Imported model on screenshot made by zakardian
 
    [Assimp]: <https://github.com/assimp/assimp>
