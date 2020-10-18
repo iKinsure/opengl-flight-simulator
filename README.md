@@ -2,7 +2,7 @@
 
 Game engine and simple flight 3D simulator code (without resources, models, dependencies and libs)
 
-![Alt text](helikopter.png?raw=true "Title")
+![Helikopter](helikopter.png?raw=true "Helikopter")
 
 ## Tech
 List of open source projects to work properly:
