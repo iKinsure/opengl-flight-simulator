@@ -2,7 +2,7 @@
 
 Game engine and simple flight 3D simulator code (without resources, models, dependencies and libs)
 
-![Helikopter](example.png?raw=true "Helikopter")
+![Helikopter](.github/assets/1.png "Helikopter")
 
 ## Tech
 List of open source projects to work properly:
